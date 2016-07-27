@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://liebend-lernen.curation.space/sitemap.xml
