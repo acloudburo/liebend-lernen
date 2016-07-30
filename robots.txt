@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.moruzzi.ch/liebend-lernen/sitemap.xml
+Sitemap: https://liebend-lernen.curation.space/sitemap.xml

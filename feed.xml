@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>liebend-lernen</title>
   <subtitle></subtitle>
-  <id>https://www.moruzzi.ch/liebend-lernen</id>
-  <link href="https://www.moruzzi.ch/liebend-lernen"/>
-  <link href="https://www.moruzzi.ch/feed.xml" rel="self"/>
+  <id>https://liebend-lernen.curation.space</id>
+  <link href="https://liebend-lernen.curation.space"/>
+  <link href="https://liebend-lernen.curation.space/feed.xml" rel="self"/>
   <author>
     <name>Sandra Moruzzi</name>
   </author>
