@@ -115,6 +115,18 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2016/08/07/museum-rietberg-zurich.html</loc>
+    <lastmod>2016-08-07</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2016/08/07/ehre-der-brumb.html</loc>
+    <lastmod>2016-08-07</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016.html</loc>
     <lastmod>2016-08-05</lastmod>
     <priority>1.0</priority>
