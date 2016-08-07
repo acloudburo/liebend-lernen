@@ -5,16 +5,54 @@
   <id>https://liebend-lernen.curation.space</id>
   <link href="https://liebend-lernen.curation.space"/>
   <link href="https://liebend-lernen.curation.space/feed.xml" rel="self"/>
-  <updated>2016-08-05T13:57:44Z</updated>
+  <updated>2016-08-07T22:59:51Z</updated>
   <author>
     <name>Sandra Moruzzi</name>
   </author>
+  <entry>
+    <title>Album</title>
+    <link rel="alternate" href="https://liebend-lernen.curation.space/2016/08/07/album.html"/>
+    <id>https://liebend-lernen.curation.space/2016/08/07/album.html</id>
+    <published>2016-08-07T22:59:51Z</published>
+    <updated>2016-08-07T22:59:51+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/78e326c27fed16e09bca1646745f1a36.jpeg" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+        &lt;a href="http://www.rietberg.ch/de-ch/ausstellungen/gaerten-der-welt.aspx"&gt;http://www.rietberg.ch/de-ch/ausstellungen/gaerten-der-welt.aspx&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Sehr schöne Ausstellung, sonntags mit offener Werkstatt, und einem ungeheuer tüchtigen Museumswärter.
+      &lt;/div&gt;
+      &lt;div&gt;
+        Elisa hätte uns um ein Haar sehr viel Geld gekostet - und sie weiss jetzt, dass man in einem Museum keine Exponate anfassen darf&amp;hellip; 🐘
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Eliot und Isabella</title>
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/08/05/eliot-und-isabella.html"/>
     <id>https://liebend-lernen.curation.space/2016/08/05/eliot-und-isabella.html</id>
     <published>2016-08-05T13:57:44Z</published>
-    <updated>2016-08-05T20:53:15+00:00</updated>
+    <updated>2016-08-05T21:34:29+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -55,7 +93,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/08/03/baski-wandert.html"/>
     <id>https://liebend-lernen.curation.space/2016/08/03/baski-wandert.html</id>
     <published>2016-08-03T22:28:11Z</published>
-    <updated>2016-08-03T22:28:28+00:00</updated>
+    <updated>2016-08-05T21:34:29+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -101,7 +139,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/08/03/alt-st-johann.html"/>
     <id>https://liebend-lernen.curation.space/2016/08/03/alt-st-johann.html</id>
     <published>2016-08-03T16:43:07Z</published>
-    <updated>2016-08-03T16:43:09+00:00</updated>
+    <updated>2016-08-05T21:34:29+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -127,7 +165,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/08/02/1-august.html"/>
     <id>https://liebend-lernen.curation.space/2016/08/02/1-august.html</id>
     <published>2016-08-02T20:46:14Z</published>
-    <updated>2016-08-02T21:07:36+00:00</updated>
+    <updated>2016-08-05T21:34:29+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -153,7 +191,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/08/02/pfyn-tg.html"/>
     <id>https://liebend-lernen.curation.space/2016/08/02/pfyn-tg.html</id>
     <published>2016-08-02T20:19:38Z</published>
-    <updated>2016-08-02T20:46:09+00:00</updated>
+    <updated>2016-08-05T21:34:29+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -193,7 +231,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/08/02/verweilen.html"/>
     <id>https://liebend-lernen.curation.space/2016/08/02/verweilen.html</id>
     <published>2016-08-02T09:48:18Z</published>
-    <updated>2016-08-02T09:48:18+00:00</updated>
+    <updated>2016-08-05T21:34:29+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
