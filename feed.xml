@@ -46,7 +46,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/08/21/kemptner-tobel.html"/>
     <id>https://liebend-lernen.curation.space/2016/08/21/kemptner-tobel.html</id>
     <published>2016-08-21T22:33:18Z</published>
-    <updated>2016-08-21T22:33:21+00:00</updated>
+    <updated>2016-08-21T23:20:22+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -59,7 +59,10 @@
     
   &lt;/div&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; Ein langer, spannender und gemütlicher Tag hier im Wald mit Wasser, Feuer und Erde.
+    &lt;p&gt;&lt;span/&gt; Ein langer, spannender und gemütlicher Tag hier im Wald mit
+       &lt;b&gt;Wasser&lt;/b&gt;,
+       &lt;b&gt;Feuer&lt;/b&gt; und
+       &lt;b&gt;Erde.&lt;/b&gt;
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
