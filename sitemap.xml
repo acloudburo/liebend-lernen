@@ -109,6 +109,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2016/10/16/die-feste-feiern-wie-sie-fallen.html</loc>
+    <lastmod>2016-10-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/10/02/sardinien.html</loc>
     <lastmod>2016-10-07</lastmod>
     <priority>0.7</priority>
@@ -208,6 +214,12 @@
     <loc>https://liebend-lernen.curation.space/2016/10.html</loc>
     <lastmod>2016-10-07</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2016/10/16.html</loc>
+    <lastmod>2016-10-07</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
