@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://liebend-lernen.curation.space/2016/10/12/messen.html</loc>
-    <lastmod>2016-10-12</lastmod>
+    <lastmod>2016-10-17</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -206,6 +206,12 @@
   </url>
   <url>
     <loc>https://liebend-lernen.curation.space/tags/wissen-nutzen.html</loc>
+    <lastmod>2016-10-07</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/tags/gedanken.html</loc>
     <lastmod>2016-10-07</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
