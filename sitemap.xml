@@ -163,6 +163,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2016/11/25/camera-roll.html</loc>
+    <lastmod>2016-11-25</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/11/25/steinschrift.html</loc>
     <lastmod>2016-11-25</lastmod>
     <priority>0.7</priority>
@@ -445,6 +451,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/page/4/</loc>
+    <lastmod>2016-11-23</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/page/2.html</loc>
     <lastmod>2016-11-23</lastmod>
     <priority>0.8</priority>
@@ -452,6 +464,12 @@
   </url>
   <url>
     <loc>https://liebend-lernen.curation.space/2016/page/3.html</loc>
+    <lastmod>2016-11-23</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2016/page/4.html</loc>
     <lastmod>2016-11-23</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
