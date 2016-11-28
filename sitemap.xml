@@ -97,6 +97,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2016/11/28/stundenlang.html</loc>
+    <lastmod>2016-11-28</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/11/02/der-igel-2016.html</loc>
     <lastmod>2016-11-27</lastmod>
     <priority>0.7</priority>
@@ -490,6 +496,12 @@
     <loc>https://liebend-lernen.curation.space/2016/page/4.html</loc>
     <lastmod>2016-11-27</lastmod>
     <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2016/11/page/2.html</loc>
+    <lastmod>2016-11-27</lastmod>
+    <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
