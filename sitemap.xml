@@ -61,6 +61,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2016/12/31/wenn-man-etwas-wichtiges-zu-sagen-hat.html</loc>
+    <lastmod>2016-12-31</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/10/20/herbsttag.html</loc>
     <lastmod>2016-12-29</lastmod>
     <priority>0.7</priority>
@@ -325,6 +331,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/tags/wissen-e.html</loc>
+    <lastmod>2016-12-29</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/tags/ausfluge.html</loc>
     <lastmod>2016-12-29</lastmod>
     <priority>0.9</priority>
@@ -358,6 +370,12 @@
     <loc>https://liebend-lernen.curation.space/2016/12.html</loc>
     <lastmod>2016-12-29</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2016/12/31.html</loc>
+    <lastmod>2016-12-29</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -610,6 +628,12 @@
     <loc>https://liebend-lernen.curation.space/2016/page/5.html</loc>
     <lastmod>2016-12-29</lastmod>
     <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2016/12/page/2.html</loc>
+    <lastmod>2016-12-29</lastmod>
+    <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
