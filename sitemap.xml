@@ -176,7 +176,7 @@
   </url>
   <url>
     <loc>https://liebend-lernen.curation.space/2016/12/12/s-nabaltuech-liit-uf-der-strass.html</loc>
-    <lastmod>2017-01-08</lastmod>
+    <lastmod>2017-01-09</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -634,6 +634,12 @@
     <loc>https://liebend-lernen.curation.space/page/5/</loc>
     <lastmod>2017-01-03</lastmod>
     <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/tags/ausfluge/page/2.html</loc>
+    <lastmod>2017-01-03</lastmod>
+    <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
