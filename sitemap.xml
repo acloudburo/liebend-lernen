@@ -229,6 +229,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2017/01/21/spass-am-lesen.html</loc>
+    <lastmod>2017-01-21</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/08/03/baski-wandert.html</loc>
     <lastmod>2017-01-08</lastmod>
     <priority>0.7</priority>
@@ -388,6 +394,12 @@
     <loc>https://liebend-lernen.curation.space/2017/01.html</loc>
     <lastmod>2017-01-03</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2017/01/21.html</loc>
+    <lastmod>2017-01-03</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
