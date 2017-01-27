@@ -85,6 +85,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2017/01/27/zirkus.html</loc>
+    <lastmod>2017-01-27</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/12/28/die-maus-app.html</loc>
     <lastmod>2017-01-26</lastmod>
     <priority>0.7</priority>
@@ -400,6 +406,12 @@
     <loc>https://liebend-lernen.curation.space/2017/01.html</loc>
     <lastmod>2017-01-26</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2017/01/27.html</loc>
+    <lastmod>2017-01-26</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
