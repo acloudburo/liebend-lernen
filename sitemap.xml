@@ -259,6 +259,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2017/01/29/ich-find-no-cool.html</loc>
+    <lastmod>2017-01-29</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/08/25/halt-steinzeit.html</loc>
     <lastmod>2017-01-26</lastmod>
     <priority>0.7</priority>
@@ -412,6 +418,12 @@
     <loc>https://liebend-lernen.curation.space/2017/01.html</loc>
     <lastmod>2017-01-26</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2017/01/29.html</loc>
+    <lastmod>2017-01-26</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
