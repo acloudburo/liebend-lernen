@@ -247,6 +247,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2017/03/15/lieblingsplatz.html</loc>
+    <lastmod>2017-03-15</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/11/14/technorama.html</loc>
     <lastmod>2017-03-05</lastmod>
     <priority>0.7</priority>
@@ -454,6 +460,12 @@
     <loc>https://liebend-lernen.curation.space/2017/03.html</loc>
     <lastmod>2017-03-05</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2017/03/15.html</loc>
+    <lastmod>2017-03-05</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
