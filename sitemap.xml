@@ -145,6 +145,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2017/03/19/saison-schluss-in-sorenberg.html</loc>
+    <lastmod>2017-03-19</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2017/03/05/elementares.html</loc>
     <lastmod>2017-03-05</lastmod>
     <priority>0.7</priority>
@@ -460,6 +466,12 @@
     <loc>https://liebend-lernen.curation.space/2017/03.html</loc>
     <lastmod>2017-03-05</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2017/03/19.html</loc>
+    <lastmod>2017-03-05</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
