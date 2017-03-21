@@ -73,6 +73,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2017/03/21/geocaching.html</loc>
+    <lastmod>2017-03-21</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/12/31/wenn-man-etwas-wichtiges-zu-sagen-hat.html</loc>
     <lastmod>2017-03-05</lastmod>
     <priority>0.7</priority>
@@ -469,6 +475,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2017/03/21.html</loc>
+    <lastmod>2017-03-05</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2017/03/19.html</loc>
     <lastmod>2017-03-05</lastmod>
     <priority>0.8</priority>
@@ -824,6 +836,12 @@
   </url>
   <url>
     <loc>https://liebend-lernen.curation.space/page/6/</loc>
+    <lastmod>2017-03-05</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/page/7/</loc>
     <lastmod>2017-03-05</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
