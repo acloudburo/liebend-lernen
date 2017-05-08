@@ -397,6 +397,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2017/05/08/gern-gelesen.html</loc>
+    <lastmod>2017-05-08</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/08/02/verweilen.html</loc>
     <lastmod>2017-05-02</lastmod>
     <priority>0.7</priority>
@@ -514,6 +520,12 @@
     <loc>https://liebend-lernen.curation.space/2017/05.html</loc>
     <lastmod>2017-05-02</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2017/05/08.html</loc>
+    <lastmod>2017-05-02</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
