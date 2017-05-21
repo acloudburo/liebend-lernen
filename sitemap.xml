@@ -349,6 +349,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2017/05/21/herbarium-an-der-aare.html</loc>
+    <lastmod>2017-05-21</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/11/05/augusta-raurica.html</loc>
     <lastmod>2017-05-02</lastmod>
     <priority>0.7</priority>
@@ -1016,6 +1022,12 @@
   </url>
   <url>
     <loc>https://liebend-lernen.curation.space/2017/page/3.html</loc>
+    <lastmod>2017-05-02</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2017/page/4.html</loc>
     <lastmod>2017-05-02</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
