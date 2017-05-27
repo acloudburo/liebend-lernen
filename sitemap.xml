@@ -271,6 +271,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2017/05/27/unerschrocken-zuversichtlich.html</loc>
+    <lastmod>2017-05-27</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2017/05/24/was-schwimmt-denn-da.html</loc>
     <lastmod>2017-05-24</lastmod>
     <priority>0.7</priority>
@@ -550,6 +556,12 @@
     <loc>https://liebend-lernen.curation.space/2017/05.html</loc>
     <lastmod>2017-05-02</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2017/05/27.html</loc>
+    <lastmod>2017-05-02</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
