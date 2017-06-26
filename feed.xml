@@ -5,16 +5,46 @@
   <id>https://liebend-lernen.curation.space</id>
   <link href="https://liebend-lernen.curation.space"/>
   <link href="https://liebend-lernen.curation.space/feed.xml" rel="self"/>
-  <updated>2017-06-03T22:29:37Z</updated>
+  <updated>2017-06-26T20:24:19Z</updated>
   <author>
     <name>Sandra Moruzzi</name>
   </author>
+  <entry>
+    <title>Coppélia</title>
+    <link rel="alternate" href="https://liebend-lernen.curation.space/2017/06/26/coppelia.html"/>
+    <id>https://liebend-lernen.curation.space/2017/06/26/coppelia.html</id>
+    <published>2017-06-26T20:24:19Z</published>
+    <updated>2017-06-26T20:24:19+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/3fbcb3ef1ab9499d631f000dba9ebd59.jpeg" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+       &lt;a href="http://theater.winterthur.ch/spielplan/detail/tstueck/c-company-kinderballett-fehraltorf.html"&gt;&lt;a href="http://theater.winterthur.ch/spielplan/detail/tstueck/c-company-kinderballett-fehraltorf.html"&gt;http://theater.winterthur.ch/spielplan/detail/tstueck/c-company-kinderballett-fehraltorf.html&lt;/a&gt;&lt;/a&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Wo ist der Schuh?</title>
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/06/03/wo-ist-der-schuh.html"/>
     <id>https://liebend-lernen.curation.space/2017/06/03/wo-ist-der-schuh.html</id>
     <published>2017-06-03T22:29:37Z</published>
-    <updated>2017-06-03T23:03:09+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -58,7 +88,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/05/27/unerschrocken-zuversichtlich.html"/>
     <id>https://liebend-lernen.curation.space/2017/05/27/unerschrocken-zuversichtlich.html</id>
     <published>2017-05-27T21:10:03Z</published>
-    <updated>2017-06-03T23:01:52+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -91,7 +121,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/05/24/was-schwimmt-denn-da.html"/>
     <id>https://liebend-lernen.curation.space/2017/05/24/was-schwimmt-denn-da.html</id>
     <published>2017-05-24T08:35:54Z</published>
-    <updated>2017-06-03T23:04:10+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -121,7 +151,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/05/21/herbarium-an-der-aare.html"/>
     <id>https://liebend-lernen.curation.space/2017/05/21/herbarium-an-der-aare.html</id>
     <published>2017-05-21T22:11:19Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -172,7 +202,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/05/21/duraschnuufa.html"/>
     <id>https://liebend-lernen.curation.space/2017/05/21/duraschnuufa.html</id>
     <published>2017-05-21T22:03:38Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -225,7 +255,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/05/19/naturama-aarau.html"/>
     <id>https://liebend-lernen.curation.space/2017/05/19/naturama-aarau.html</id>
     <published>2017-05-19T17:06:00Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -258,7 +288,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/05/18/freies-malen.html"/>
     <id>https://liebend-lernen.curation.space/2017/05/18/freies-malen.html</id>
     <published>2017-05-18T12:33:57Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -298,7 +328,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/05/08/gern-gelesen.html"/>
     <id>https://liebend-lernen.curation.space/2017/05/08/gern-gelesen.html</id>
     <published>2017-05-08T21:34:37Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -325,7 +355,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/05/05/den-kase-verstanden.html"/>
     <id>https://liebend-lernen.curation.space/2017/05/05/den-kase-verstanden.html</id>
     <published>2017-05-05T21:23:40Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -369,7 +399,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/05/04/tiere-zeichnen.html"/>
     <id>https://liebend-lernen.curation.space/2017/05/04/tiere-zeichnen.html</id>
     <published>2017-05-04T06:51:07Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -406,7 +436,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/04/26/endlich-regen.html"/>
     <id>https://liebend-lernen.curation.space/2017/04/26/endlich-regen.html</id>
     <published>2017-04-26T15:44:34Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -467,7 +497,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/04/24/basel-stadt.html"/>
     <id>https://liebend-lernen.curation.space/2017/04/24/basel-stadt.html</id>
     <published>2017-04-24T08:59:25Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -534,7 +564,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/04/20/hexenkuche.html"/>
     <id>https://liebend-lernen.curation.space/2017/04/20/hexenkuche.html</id>
     <published>2017-04-20T21:00:33Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -574,7 +604,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/03/29/kroten.html"/>
     <id>https://liebend-lernen.curation.space/2017/03/29/kroten.html</id>
     <published>2017-03-29T13:48:00Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -623,7 +653,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/03/29/fruhling-vor-der-tur.html"/>
     <id>https://liebend-lernen.curation.space/2017/03/29/fruhling-vor-der-tur.html</id>
     <published>2017-03-29T13:36:32Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -670,7 +700,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/03/21/geocaching.html"/>
     <id>https://liebend-lernen.curation.space/2017/03/21/geocaching.html</id>
     <published>2017-03-21T21:34:27Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -723,7 +753,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/03/19/saison-schluss-in-sorenberg.html"/>
     <id>https://liebend-lernen.curation.space/2017/03/19/saison-schluss-in-sorenberg.html</id>
     <published>2017-03-19T22:06:29Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -749,7 +779,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/03/15/lieblingsplatz.html"/>
     <id>https://liebend-lernen.curation.space/2017/03/15/lieblingsplatz.html</id>
     <published>2017-03-15T21:23:27Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -775,7 +805,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/03/09/papi-chasper.html"/>
     <id>https://liebend-lernen.curation.space/2017/03/09/papi-chasper.html</id>
     <published>2017-03-09T19:00:12Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -801,7 +831,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/03/06/notiz.html"/>
     <id>https://liebend-lernen.curation.space/2017/03/06/notiz.html</id>
     <published>2017-03-06T10:15:41Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -827,7 +857,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/03/05/elementares.html"/>
     <id>https://liebend-lernen.curation.space/2017/03/05/elementares.html</id>
     <published>2017-03-05T23:05:16Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -856,7 +886,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/03/02/grosse-geschichte.html"/>
     <id>https://liebend-lernen.curation.space/2017/03/02/grosse-geschichte.html</id>
     <published>2017-03-02T23:13:26Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -891,7 +921,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/02/25/ruhrend.html"/>
     <id>https://liebend-lernen.curation.space/2017/02/25/ruhrend.html</id>
     <published>2017-02-25T22:34:50Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -926,7 +956,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/02/12/wind-in-die-segel.html"/>
     <id>https://liebend-lernen.curation.space/2017/02/12/wind-in-die-segel.html</id>
     <published>2017-02-12T22:32:35Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -955,7 +985,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/01/29/ich-find-no-cool.html"/>
     <id>https://liebend-lernen.curation.space/2017/01/29/ich-find-no-cool.html</id>
     <published>2017-01-29T15:08:40Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -984,7 +1014,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/01/28/die-sache-mit-der-kunst.html"/>
     <id>https://liebend-lernen.curation.space/2017/01/28/die-sache-mit-der-kunst.html</id>
     <published>2017-01-28T23:57:43Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1013,7 +1043,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/01/27/zirkus.html"/>
     <id>https://liebend-lernen.curation.space/2017/01/27/zirkus.html</id>
     <published>2017-01-27T22:44:09Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1079,7 +1109,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/01/23/sich-richtig-vertiefen.html"/>
     <id>https://liebend-lernen.curation.space/2017/01/23/sich-richtig-vertiefen.html</id>
     <published>2017-01-23T23:30:01Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1108,7 +1138,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/01/21/spass-am-lesen.html"/>
     <id>https://liebend-lernen.curation.space/2017/01/21/spass-am-lesen.html</id>
     <published>2017-01-21T21:50:51Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1136,7 +1166,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/01/13/alter-silvester.html"/>
     <id>https://liebend-lernen.curation.space/2017/01/13/alter-silvester.html</id>
     <published>2017-01-13T22:02:00Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1163,7 +1193,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/01/09/spielen.html"/>
     <id>https://liebend-lernen.curation.space/2017/01/09/spielen.html</id>
     <published>2017-01-09T22:27:10Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1190,7 +1220,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/01/09/leiterlispiel.html"/>
     <id>https://liebend-lernen.curation.space/2017/01/09/leiterlispiel.html</id>
     <published>2017-01-09T21:23:54Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1217,7 +1247,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/01/09/beechue.html"/>
     <id>https://liebend-lernen.curation.space/2017/01/09/beechue.html</id>
     <published>2017-01-09T21:23:45Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1261,7 +1291,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/01/08/klassiker.html"/>
     <id>https://liebend-lernen.curation.space/2017/01/08/klassiker.html</id>
     <published>2017-01-08T21:41:40Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1298,7 +1328,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/12/31/wenn-man-etwas-wichtiges-zu-sagen-hat.html"/>
     <id>https://liebend-lernen.curation.space/2016/12/31/wenn-man-etwas-wichtiges-zu-sagen-hat.html</id>
     <published>2016-12-31T11:53:37Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1333,7 +1363,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/12/29/spital-emmas-geburtstag.html"/>
     <id>https://liebend-lernen.curation.space/2016/12/29/spital-emmas-geburtstag.html</id>
     <published>2016-12-29T22:38:17Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1371,7 +1401,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/12/28/die-maus-app.html"/>
     <id>https://liebend-lernen.curation.space/2016/12/28/die-maus-app.html</id>
     <published>2016-12-28T14:27:29Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1398,7 +1428,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/12/27/es-hat-sich-ausgeweihnachtet.html"/>
     <id>https://liebend-lernen.curation.space/2016/12/27/es-hat-sich-ausgeweihnachtet.html</id>
     <published>2016-12-27T14:17:58Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1425,7 +1455,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/12/20/furchtet-euch-nicht.html"/>
     <id>https://liebend-lernen.curation.space/2016/12/20/furchtet-euch-nicht.html</id>
     <published>2016-12-20T19:10:50Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1455,7 +1485,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/12/17/auto-aus-der-werkstatt.html"/>
     <id>https://liebend-lernen.curation.space/2016/12/17/auto-aus-der-werkstatt.html</id>
     <published>2016-12-17T15:01:56Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1496,7 +1526,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/12/15/glitzer-und-glanzig.html"/>
     <id>https://liebend-lernen.curation.space/2016/12/15/glitzer-und-glanzig.html</id>
     <published>2016-12-15T22:56:54Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1537,7 +1567,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/12/12/s-nabaltuech-liit-uf-der-strass.html"/>
     <id>https://liebend-lernen.curation.space/2016/12/12/s-nabaltuech-liit-uf-der-strass.html</id>
     <published>2016-12-12T23:12:34Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1570,7 +1600,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/12/12/grittibanz-gedankenmacherei.html"/>
     <id>https://liebend-lernen.curation.space/2016/12/12/grittibanz-gedankenmacherei.html</id>
     <published>2016-12-12T23:01:40Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1598,7 +1628,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/12/01/wissen-erwerben.html"/>
     <id>https://liebend-lernen.curation.space/2016/12/01/wissen-erwerben.html</id>
     <published>2016-12-01T10:56:13Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1625,7 +1655,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/11/28/stundenlang.html"/>
     <id>https://liebend-lernen.curation.space/2016/11/28/stundenlang.html</id>
     <published>2016-11-28T08:02:37Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1651,7 +1681,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/11/25/ab-in-den-wald.html"/>
     <id>https://liebend-lernen.curation.space/2016/11/25/ab-in-den-wald.html</id>
     <published>2016-11-25T12:59:17Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1688,7 +1718,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/11/25/steinschrift.html"/>
     <id>https://liebend-lernen.curation.space/2016/11/25/steinschrift.html</id>
     <published>2016-11-25T12:57:14Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1726,7 +1756,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/11/25/mami-lernt.html"/>
     <id>https://liebend-lernen.curation.space/2016/11/25/mami-lernt.html</id>
     <published>2016-11-25T12:55:12Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1776,7 +1806,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/11/15/die-schonste-stadt-der-welt.html"/>
     <id>https://liebend-lernen.curation.space/2016/11/15/die-schonste-stadt-der-welt.html</id>
     <published>2016-11-15T16:18:30Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1824,7 +1854,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2016/11/14/technorama.html"/>
     <id>https://liebend-lernen.curation.space/2016/11/14/technorama.html</id>
     <published>2016-11-14T22:39:01Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
+    <updated>2017-06-26T20:07:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -1841,44 +1871,6 @@
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Augusta Raurica</title>
-    <link rel="alternate" href="https://liebend-lernen.curation.space/2016/11/05/augusta-raurica.html"/>
-    <id>https://liebend-lernen.curation.space/2016/11/05/augusta-raurica.html</id>
-    <published>2016-11-05T22:06:49Z</published>
-    <updated>2017-05-27T21:35:40+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/ca698782c94522c68703a3a9a4628aa2.jpeg" /&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div style=""&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;a href="http://www.augustaraurica.ch/de/besuchen/fuehrungenworkshops/workshops/raetselrundgang-voller-duefte-und-gerueche/"&gt;&lt;/a&gt;
-       &lt;a href="http://www.augustaraurica.ch/de/besuchen/fuehrungenworkshops/workshops/raetselrundgang-voller-duefte-und-gerueche/"&gt;&lt;a href="http://www.augustaraurica.ch/de/besuchen/fuehrungenworkshops/workshops/raetselrundgang-voller-duefte-und-gerueche/"&gt;http://www.augustaraurica.ch/de/besuchen/fuehrungenworkshops/workshops/raetselrundgang-voller-duefte-und-gerueche/&lt;/a&gt;&lt;/a&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;a href="http://www.augustaraurica.ch/de/besuchen/fuehrungenworkshops/workshops/raetselrundgang-voller-duefte-und-gerueche/"&gt;&lt;br&gt;&lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Ich war als Kind hier und fand das Haus ungeheuer eindrücklich - heute fasziniert mich alles, die überlegene Grösse in jeder Hinsicht. 
-      &lt;/div&gt;
-      &lt;div&gt;
-        Erstaunlich, wie sich die Dinge mit wachsendem Verständnis ändern&amp;hellip;
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
