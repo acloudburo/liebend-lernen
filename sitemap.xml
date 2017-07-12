@@ -67,6 +67,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2017/07/12/idas-sandkuchen.html</loc>
+    <lastmod>2017-07-12</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/12/17/auto-aus-der-werkstatt.html</loc>
     <lastmod>2017-06-26</lastmod>
     <priority>0.7</priority>
@@ -595,6 +601,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2017/07/12.html</loc>
+    <lastmod>2017-06-20</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2017/07/08.html</loc>
     <lastmod>2017-06-20</lastmod>
     <priority>0.8</priority>
@@ -1088,6 +1100,12 @@
   </url>
   <url>
     <loc>https://liebend-lernen.curation.space/page/8/</loc>
+    <lastmod>2017-06-20</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/page/9/</loc>
     <lastmod>2017-06-20</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
