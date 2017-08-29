@@ -277,6 +277,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2017/08/29/das-alte-rom.html</loc>
+    <lastmod>2017-08-29</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2017/07/13/die-grosse-und-die-chliina.html</loc>
     <lastmod>2017-08-13</lastmod>
     <priority>0.7</priority>
@@ -688,6 +694,12 @@
     <loc>https://liebend-lernen.curation.space/2017/08.html</loc>
     <lastmod>2017-08-13</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2017/08/29.html</loc>
+    <lastmod>2017-08-13</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
