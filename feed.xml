@@ -96,7 +96,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/11/08/druck-erfahren.html"/>
     <id>https://liebend-lernen.curation.space/2017/11/08/druck-erfahren.html</id>
     <published>2017-11-08T22:52:41Z</published>
-    <updated>2017-11-12T17:47:38+00:00</updated>
+    <updated>2017-11-13T01:22:50+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -114,7 +114,8 @@
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
-    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/433d6ad559d138a4ecd33f6b5570ca03.jpeg'&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a data-toggle='lightbox' href='/images/433d6ad559d138a4ecd33f6b5570ca03.jpeg'/&gt;
+         &lt;img class='pull-left img-responsive article img-thumbnail' src='/images/tb-433d6ad559d138a4ecd33f6b5570ca03.jpeg'&gt;&lt;/p&gt;
     
   &lt;/div&gt;
   &lt;div class="article"&gt;
@@ -122,7 +123,8 @@
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
-    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/ff115dae98dd0802fd7aed365ccd1065.jpeg'&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a data-toggle='lightbox' href='/images/ff115dae98dd0802fd7aed365ccd1065.jpeg'/&gt;
+         &lt;img class='pull-left img-responsive article img-thumbnail' src='/images/tb-ff115dae98dd0802fd7aed365ccd1065.jpeg'&gt;&lt;/p&gt;
     
   &lt;/div&gt;
   &lt;div class="article"&gt;
@@ -130,7 +132,8 @@
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
-    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/d7c9ed30a954e454af8a96097735bd69.jpeg'&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a data-toggle='lightbox' href='/images/d7c9ed30a954e454af8a96097735bd69.jpeg'/&gt;
+         &lt;img class='pull-left img-responsive article img-thumbnail' src='/images/tb-d7c9ed30a954e454af8a96097735bd69.jpeg'&gt;&lt;/p&gt;
     
   &lt;/div&gt;
   &lt;div class="article"&gt;
@@ -138,7 +141,8 @@
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
-    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/67e54700a9bba7414d036c514399f358.jpeg'&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a data-toggle='lightbox' href='/images/67e54700a9bba7414d036c514399f358.jpeg'/&gt;
+         &lt;img class='pull-left img-responsive article img-thumbnail' src='/images/tb-67e54700a9bba7414d036c514399f358.jpeg'&gt;&lt;/p&gt;
     
   &lt;/div&gt;
   &lt;div class="article"&gt;
@@ -156,12 +160,13 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/10/06/zeit-haben.html"/>
     <id>https://liebend-lernen.curation.space/2017/10/06/zeit-haben.html</id>
     <published>2017-10-06T15:58:14Z</published>
-    <updated>2017-11-12T17:47:38+00:00</updated>
+    <updated>2017-11-13T01:22:42+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;div class="row"&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/b9070ea7f46811216697d6648a9a4fef.jpeg" /&gt;
+  &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/b9070ea7f46811216697d6648a9a4fef.jpeg'&gt;&lt;/p&gt;
+  
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
@@ -173,8 +178,9 @@
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
+    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/b84d62f98b36fabb83d2592e53674eae.jpeg'&gt;&lt;/p&gt;
+    
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/b84d62f98b36fabb83d2592e53674eae.jpeg" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
       &lt;/div&gt;
@@ -193,12 +199,13 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/10/05/was-ida-tut.html"/>
     <id>https://liebend-lernen.curation.space/2017/10/05/was-ida-tut.html</id>
     <published>2017-10-05T21:36:15Z</published>
-    <updated>2017-11-12T17:47:38+00:00</updated>
+    <updated>2017-11-13T01:22:37+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;div class="row"&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/6cb3898311d26c28327513c3db0d311d.jpeg" /&gt;
+  &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/6cb3898311d26c28327513c3db0d311d.jpeg'&gt;&lt;/p&gt;
+  
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
@@ -256,12 +263,13 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/09/04/emma-the.html"/>
     <id>https://liebend-lernen.curation.space/2017/09/04/emma-the.html</id>
     <published>2017-09-04T16:55:20Z</published>
-    <updated>2017-11-12T17:47:38+00:00</updated>
+    <updated>2017-11-13T01:22:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;div class="row"&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/e2671e615b77daccfe9bb3b1dec32dd9.jpeg" /&gt;
+  &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/e2671e615b77daccfe9bb3b1dec32dd9.jpeg'&gt;&lt;/p&gt;
+  
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
@@ -276,8 +284,9 @@
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
+    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/d71ce94ec62d0e6358c545636b0da0fd.jpeg'&gt;&lt;/p&gt;
+    
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/d71ce94ec62d0e6358c545636b0da0fd.jpeg" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
       &lt;/div&gt;
@@ -337,12 +346,13 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/08/30/theaterspektakel.html"/>
     <id>https://liebend-lernen.curation.space/2017/08/30/theaterspektakel.html</id>
     <published>2017-08-30T21:01:14Z</published>
-    <updated>2017-11-12T17:47:38+00:00</updated>
+    <updated>2017-11-13T01:22:32+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;div class="row"&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/669451c1c2edde71472774e126390ed6.jpeg" /&gt;
+  &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/669451c1c2edde71472774e126390ed6.jpeg'&gt;&lt;/p&gt;
+  
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
