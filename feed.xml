@@ -376,12 +376,13 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/08/29/das-alte-rom.html"/>
     <id>https://liebend-lernen.curation.space/2017/08/29/das-alte-rom.html</id>
     <published>2017-08-29T13:47:36Z</published>
-    <updated>2017-11-12T17:47:38+00:00</updated>
+    <updated>2017-11-13T00:50:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;div class="row"&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/4a993dcc46eaea2c53bdd51f51592488.jpeg" /&gt;
+  &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/4a993dcc46eaea2c53bdd51f51592488.jpeg'&gt;&lt;/p&gt;
+  
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
@@ -392,24 +393,26 @@
     
   &lt;/div&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt; &lt;/p&gt;
+    &lt;p&gt;&lt;span/&gt; 
+       &lt;img class='pull-left img-responsive article img-thumbnail' src='/images/451ea1ecc3885cf4ce433199e3eff426.jpeg'&gt;&lt;/p&gt;
     
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/451ea1ecc3885cf4ce433199e3eff426.jpeg" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
+    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/7a0c8406da15eb993f905ae3dcd08637.jpeg'&gt;&lt;/p&gt;
+    
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/7a0c8406da15eb993f905ae3dcd08637.jpeg" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
+    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/f896a55cd423f1c4cbb85d0723f0ebe5.jpeg'&gt;&lt;/p&gt;
+    
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/f896a55cd423f1c4cbb85d0723f0ebe5.jpeg" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
       &lt;/div&gt;
@@ -428,12 +431,13 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/08/23/krauterkuche.html"/>
     <id>https://liebend-lernen.curation.space/2017/08/23/krauterkuche.html</id>
     <published>2017-08-23T22:11:26Z</published>
-    <updated>2017-11-12T17:47:38+00:00</updated>
+    <updated>2017-11-13T00:50:25+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;div class="row"&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/5e50481d7f039bed59a8badd2b4ebc85.jpeg" /&gt;
+  &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/5e50481d7f039bed59a8badd2b4ebc85.jpeg'&gt;&lt;/p&gt;
+  
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
@@ -445,22 +449,25 @@
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
+    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/763a7f798e1201734b21f6d622433cc3.jpeg'&gt;&lt;/p&gt;
+    
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/763a7f798e1201734b21f6d622433cc3.jpeg" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
+    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/a73660a9e9ab39d9c7656faafe6f02f3.jpeg'&gt;&lt;/p&gt;
+    
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/a73660a9e9ab39d9c7656faafe6f02f3.jpeg" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
+    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/ce948d066296f3fc44802761e99577e5.jpeg'&gt;&lt;/p&gt;
+    
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/ce948d066296f3fc44802761e99577e5.jpeg" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
       &lt;/div&gt;
@@ -479,12 +486,13 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2017/08/23/wasser-spiele.html"/>
     <id>https://liebend-lernen.curation.space/2017/08/23/wasser-spiele.html</id>
     <published>2017-08-23T22:06:45Z</published>
-    <updated>2017-11-12T17:47:38+00:00</updated>
+    <updated>2017-11-13T00:50:17+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;div class="row"&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/526293901a7d59aca347213eb8798840.jpeg" /&gt;
+  &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/526293901a7d59aca347213eb8798840.jpeg'&gt;&lt;/p&gt;
+  
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
@@ -496,8 +504,9 @@
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
+    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/b294b9d69ab33fbd8be5b2dacd811854.jpeg'&gt;&lt;/p&gt;
+    
   &lt;/div&gt;
-  &lt;img class="pull-left img-responsive img-thumbnail article" src="/images/b294b9d69ab33fbd8be5b2dacd811854.jpeg" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
       &lt;/div&gt;
