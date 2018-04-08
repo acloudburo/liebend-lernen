@@ -649,6 +649,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2018/04/08/auf-dem-holzweg.html</loc>
+    <lastmod>2018-04-08</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/12/31/wenn-man-etwas-wichtiges-zu-sagen-hat.html</loc>
     <lastmod>2018-01-06</lastmod>
     <priority>0.7</priority>
@@ -778,6 +784,18 @@
     <loc>https://liebend-lernen.curation.space/2018.html</loc>
     <lastmod>2018-01-06</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2018/04.html</loc>
+    <lastmod>2018-01-06</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2018/04/08.html</loc>
+    <lastmod>2018-01-06</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
