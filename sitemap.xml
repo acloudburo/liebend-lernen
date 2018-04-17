@@ -295,6 +295,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2018/04/17/fruhling-wie-er-im-buche-steht.html</loc>
+    <lastmod>2018-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2017/08/12/brieffreundschaften.html</loc>
     <lastmod>2018-01-06</lastmod>
     <priority>0.7</priority>
@@ -802,6 +808,12 @@
     <loc>https://liebend-lernen.curation.space/2018/04.html</loc>
     <lastmod>2018-01-06</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2018/04/17.html</loc>
+    <lastmod>2018-01-06</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
