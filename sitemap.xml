@@ -313,6 +313,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2018/04/28/stuck-fur-stuck.html</loc>
+    <lastmod>2018-04-28</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2018/04/17/fruhling-wie-er-im-buche-steht.html</loc>
     <lastmod>2018-04-17</lastmod>
     <priority>0.7</priority>
@@ -374,7 +380,7 @@
   </url>
   <url>
     <loc>https://liebend-lernen.curation.space/2018/03/30/costa-rica-zusammen-weit-weg.html</loc>
-    <lastmod>2018-04-15</lastmod>
+    <lastmod>2018-04-28</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -826,6 +832,12 @@
     <loc>https://liebend-lernen.curation.space/2018/04.html</loc>
     <lastmod>2018-01-06</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2018/04/28.html</loc>
+    <lastmod>2018-01-06</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -1624,6 +1636,12 @@
     <loc>https://liebend-lernen.curation.space/tags/wissen-nutzen/page/2.html</loc>
     <lastmod>2018-01-06</lastmod>
     <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2018/page/2.html</loc>
+    <lastmod>2018-01-06</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
