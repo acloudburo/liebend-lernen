@@ -727,6 +727,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2018/04/29/meer-malen.html</loc>
+    <lastmod>2018-04-29</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2017/02/12/wind-in-die-segel.html</loc>
     <lastmod>2018-01-06</lastmod>
     <priority>0.7</priority>
@@ -832,6 +838,12 @@
     <loc>https://liebend-lernen.curation.space/2018/04.html</loc>
     <lastmod>2018-01-06</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2018/04/29.html</loc>
+    <lastmod>2018-01-06</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -1604,6 +1616,12 @@
   </url>
   <url>
     <loc>https://liebend-lernen.curation.space/page/12/</loc>
+    <lastmod>2018-01-06</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/page/13/</loc>
     <lastmod>2018-01-06</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
