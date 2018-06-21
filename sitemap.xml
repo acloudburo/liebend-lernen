@@ -511,6 +511,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2018/06/21/felsmassiv.html</loc>
+    <lastmod>2018-06-21</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/12/12/s-nabaltuech-liit-uf-der-strass.html</loc>
     <lastmod>2018-06-17</lastmod>
     <priority>0.7</priority>
@@ -886,6 +892,12 @@
     <loc>https://liebend-lernen.curation.space/2018/06.html</loc>
     <lastmod>2018-06-17</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2018/06/21.html</loc>
+    <lastmod>2018-06-17</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -1748,6 +1760,12 @@
   </url>
   <url>
     <loc>https://liebend-lernen.curation.space/2018/page/2.html</loc>
+    <lastmod>2018-06-17</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2018/page/3.html</loc>
     <lastmod>2018-06-17</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
