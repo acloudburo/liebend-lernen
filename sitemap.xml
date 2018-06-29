@@ -313,6 +313,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2018/06/29/handlettering.html</loc>
+    <lastmod>2018-06-29</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2017/07/22/sommergewitter.html</loc>
     <lastmod>2018-06-27</lastmod>
     <priority>0.7</priority>
@@ -898,6 +904,12 @@
     <loc>https://liebend-lernen.curation.space/2018/06.html</loc>
     <lastmod>2018-06-27</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2018/06/29.html</loc>
+    <lastmod>2018-06-27</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>

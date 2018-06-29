@@ -5,10 +5,37 @@
   <id>https://liebend-lernen.curation.space</id>
   <link href="https://liebend-lernen.curation.space"/>
   <link href="https://liebend-lernen.curation.space/feed.xml" rel="self"/>
-  <updated>2018-06-24T20:55:44+00:00</updated>
+  <updated>2018-06-29T16:33:33+00:00</updated>
   <author>
     <name>Sandra Moruzzi</name>
   </author>
+  <entry>
+    <title>Handlettering</title>
+    <link rel="alternate" href="https://liebend-lernen.curation.space/2018/06/29/handlettering.html"/>
+    <id>https://liebend-lernen.curation.space/2018/06/29/handlettering.html</id>
+    <published>2018-06-29T16:33:33+00:00</published>
+    <updated>2018-06-29T16:33:35+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/9e12df841a7b198d2f90f7107ee2479c.jpeg'&gt;&lt;/p&gt;
+  
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+      &lt;div&gt;
+       &lt;br&gt;
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Süsser Streusel</title>
     <link rel="alternate" href="https://liebend-lernen.curation.space/2018/06/24/susser-streusel.html"/>
@@ -2152,34 +2179,6 @@
       &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Idas Sandkuchen</title>
-    <link rel="alternate" href="https://liebend-lernen.curation.space/2017/07/12/idas-sandkuchen.html"/>
-    <id>https://liebend-lernen.curation.space/2017/07/12/idas-sandkuchen.html</id>
-    <published>2017-07-12T21:20:32+00:00</published>
-    <updated>2018-06-27T22:00:24+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/64e2136c3e0cf792bd2a97c6963a7f8c.jpeg'&gt;&lt;/p&gt;
-  
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-        Idas Sandkuchen haben mich an ein Interview erinnert, sinngemäss etwa: Wenn ein Kind etwas macht, wenn es spielt, dann ist das ernst, es geht in seinem Spiel auf und vertieft sich, es ist glücklich.
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
