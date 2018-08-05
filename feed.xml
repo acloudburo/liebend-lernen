@@ -486,7 +486,7 @@
     <link rel="alternate" href="https://liebend-lernen.curation.space/2018/05/10/mandala.html"/>
     <id>https://liebend-lernen.curation.space/2018/05/10/mandala.html</id>
     <published>2018-05-10T09:56:44+00:00</published>
-    <updated>2018-08-03T22:10:50+00:00</updated>
+    <updated>2018-08-05T21:42:15+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -505,6 +505,9 @@
       &lt;div&gt;
         Elisa hat sich
        &lt;span style=""&gt;in der Bibliothek &lt;/span&gt;ein Buch von J. Frischknecht  ausgeliehen und war sofort selbst begeisterte Mandala-Zeichnerin.
+      &lt;/div&gt;
+      &lt;div&gt;
+        Emma schloss sich an&amp;hellip; und dann auch Ida.
       &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
@@ -528,17 +531,6 @@
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
       &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/64980fa456e88ead0e77d9d98c5f0a59.jpeg'&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
       &lt;div&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/9f1df9dd153c21aaaef35725526c6b19.jpeg'&gt;&lt;/p&gt;
@@ -553,7 +545,8 @@
     
   &lt;/div&gt;
   &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;        &lt;/div&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
+      &lt;/div&gt;
       &lt;div&gt;
        &lt;br&gt;
       &lt;/div&gt;&lt;/p&gt;
