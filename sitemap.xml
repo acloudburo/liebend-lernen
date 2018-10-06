@@ -877,6 +877,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2018/10/06/sternwarte-zurich.html</loc>
+    <lastmod>2018-10-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2018/06/02/die-brucke.html</loc>
     <lastmod>2018-09-09</lastmod>
     <priority>0.7</priority>
@@ -970,6 +976,12 @@
     <loc>https://liebend-lernen.curation.space/2018/10.html</loc>
     <lastmod>2018-09-09</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2018/10/06.html</loc>
+    <lastmod>2018-09-09</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
