@@ -205,6 +205,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2018/10/25/andalusien.html</loc>
+    <lastmod>2018-10-25</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2018/06/24/susser-streusel.html</loc>
     <lastmod>2018-09-09</lastmod>
     <priority>0.7</priority>
@@ -982,6 +988,12 @@
     <loc>https://liebend-lernen.curation.space/2018/10.html</loc>
     <lastmod>2018-09-09</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2018/10/25.html</loc>
+    <lastmod>2018-09-09</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
