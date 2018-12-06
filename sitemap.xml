@@ -829,6 +829,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2018/12/06/mathe-im-advent.html</loc>
+    <lastmod>2018-12-06</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2017/01/08/klassiker.html</loc>
     <lastmod>2018-09-09</lastmod>
     <priority>0.7</priority>
@@ -1000,6 +1006,18 @@
     <loc>https://liebend-lernen.curation.space/2018.html</loc>
     <lastmod>2018-09-09</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2018/12.html</loc>
+    <lastmod>2018-09-09</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2018/12/06.html</loc>
+    <lastmod>2018-09-09</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -2042,6 +2060,12 @@
   </url>
   <url>
     <loc>https://liebend-lernen.curation.space/2018/page/4.html</loc>
+    <lastmod>2018-09-09</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2018/page/5.html</loc>
     <lastmod>2018-09-09</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
