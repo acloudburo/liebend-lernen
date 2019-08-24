@@ -5,10 +5,38 @@
   <id>https://liebend-lernen.curation.space</id>
   <link href="https://liebend-lernen.curation.space"/>
   <link href="https://liebend-lernen.curation.space/feed.xml" rel="self"/>
-  <updated>2019-07-02T20:34:27+00:00</updated>
+  <updated>2019-08-24T22:14:34+00:00</updated>
   <author>
     <name>Sandra Moruzzi</name>
   </author>
+  <entry>
+    <title>Mit was man rechnet...</title>
+    <link rel="alternate" href="https://liebend-lernen.curation.space/2019/08/24/mit-was-man-rechnet.html"/>
+    <id>https://liebend-lernen.curation.space/2019/08/24/mit-was-man-rechnet.html</id>
+    <published>2019-08-24T22:14:34+00:00</published>
+    <updated>2019-08-24T22:14:38+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/9fb7e948a292ede0c649d7176ca6b4a8.jpeg'&gt;&lt;/p&gt;
+  
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div style="text-align: center;"&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        Emma war glücklich, als sie beim Wandern erstmals eine vierstellige Zahl korrekt benennen konnte.
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Vive le francais...</title>
     <link rel="alternate" href="https://liebend-lernen.curation.space/2019/07/02/vive-le-francais.html"/>
@@ -1822,58 +1850,6 @@
       &lt;/div&gt;
       &lt;div&gt;
         Goethe
-      &lt;/div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Teamwork</title>
-    <link rel="alternate" href="https://liebend-lernen.curation.space/2018/01/26/teamwork.html"/>
-    <id>https://liebend-lernen.curation.space/2018/01/26/teamwork.html</id>
-    <published>2018-01-26T11:00:40+00:00</published>
-    <updated>2019-06-23T21:43:18+00:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;div class="row"&gt;
-  &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/a24b0c870cac25e081d340bbc48d43f6.jpeg'&gt;&lt;/p&gt;
-  
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;div&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/16c7b0b66ca397436f3d6113fd33aa03.jpeg'&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/986e49e741cab1827968f25eb6469c7c.jpeg'&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;&lt;/p&gt;
-    
-    &lt;p&gt;&lt;img class='pull-left img-responsive article img-thumbnail' src='/images/ff4889e858d85ad075064ffe9855e0b4.jpeg'&gt;&lt;/p&gt;
-    
-  &lt;/div&gt;
-  &lt;div class="article"&gt;
-    &lt;p&gt;&lt;span/&gt;         &lt;br&gt;
-      &lt;/div&gt;
-      &lt;div&gt;
-       &lt;br&gt;
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;

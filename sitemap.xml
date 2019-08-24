@@ -325,6 +325,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://liebend-lernen.curation.space/2019/08/24/mit-was-man-rechnet.html</loc>
+    <lastmod>2019-08-24</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://liebend-lernen.curation.space/2016/11/15/die-schonste-stadt-der-welt.html</loc>
     <lastmod>2019-06-23</lastmod>
     <priority>0.7</priority>
@@ -1072,6 +1078,18 @@
     <loc>https://liebend-lernen.curation.space/2019.html</loc>
     <lastmod>2019-06-23</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2019/08.html</loc>
+    <lastmod>2019-06-23</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://liebend-lernen.curation.space/2019/08/24.html</loc>
+    <lastmod>2019-06-23</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
